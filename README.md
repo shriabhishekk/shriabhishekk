@@ -9,7 +9,7 @@
 
 - 🔭 I am currently learning  **AWS**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I am currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://shriabhishekk.github.io/Portfolio-Website/](https://shriabhishekk.github.io/Portfolio-Website/)
 
