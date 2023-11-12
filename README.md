@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shriabhishekk.github.io/Portfolio-Website/](https://shriabhishekk.github.io/Portfolio-Website/)
 
-- 💬 Ask me about **Problem Solving , MEARN, AWS**
+- 💬 Ask me about **Problem Solving , MEARN, AWS, CP**
 
 - 📫 How to reach me **abhishek.choudhaary@gmail.com**
 
