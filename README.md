@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Problem Solving , MEARN, AWS, CP**
 
-- 📫 How to reach me **abhishek.choudhaary@gmail.com**
+- 📫 reach me  **abhishek.choudhaary@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
